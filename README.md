@@ -19,7 +19,7 @@ In order to fulfill the first requirment of how long bikes are checked out for a
 1.length of trip duration against number of bike users
 2.length of trip duration against number of bike users based on Gender (Male, Female, Unknown)
 
-![Chekout Time for Users](Images/Chekout%20Time%20for%20Users.png)
+![Chekout Time for Users](Module Challenge/Images/Chekout%20Time%20for%20Users.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_CheckoutTimeforUsers/CheckoutTimeforusers]
 
