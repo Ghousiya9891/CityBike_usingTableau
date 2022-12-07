@@ -19,26 +19,26 @@ In order to fulfill the first requirment of how long bikes are checked out for a
 1.length of trip duration against number of bike users
 2.length of trip duration against number of bike users based on Gender (Male, Female, Unknown)
 
-![Chekout Time for Users](Module Challenge/Images/Chekout%20Time%20for%20Users.png)
+![Chekout Time for Users](Module%20Challenge/Images/Chekout%20Time%20for%20Users.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_CheckoutTimeforUsers/CheckoutTimeforusers]
 
-![Chekout Time for Users](Images/Chekout%20Time%20by%20Gender.png)
+![Chekout Time for Users](Module%20Challenge/Images/Chekout%20Time%20by%20Gender.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_CheckoutTimebyGender/CheckoutTimebyGender]
 
 The trip duration against weekday per hour is plotted as follows and below HeatMap is created
-![Trips by Weekday per hour](Images/Trips%20by%20Weekday%20per%20hour.png)
+![Trips by Weekday per hour](Module%20Challenge/Images/Trips%20by%20Weekday%20per%20hour.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_TripsbyWeedayperHour/TripsbyWeekdayperHour]
 
 The trips per Weekday plotted by Gender is plotted as below 
-![Trips by Weekday per hour by Gender](Images/Trips%20by%20Weekday%20per%20hour%20by%20Gender.png)
+![Trips by Weekday per hour by Gender](Module%20Challenge/Images/Trips%20by%20Weekday%20per%20hour%20by%20Gender.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_TripsbyGenderWeekdayperHour/CreatetheTripsbyGenderWeekdayperHour]
 
 The final Heat Map representing the trips based on user type plotted by Weekday per hour is generated as follows
-![Trips by Weekday per hour by Gender_user type](Images/Trips%20by%20Weekday%20per%20hour%20by%20Gender_user%20type.png)
+![Trips by Weekday per hour by Gender_user type](Module%20Challenge/Images/Trips%20by%20Weekday%20per%20hour%20by%20Gender_user%20type.png)
 
 Tableau link: ![https://public.tableau.com/app/profile/ghousiya/viz/CitybikeRide_UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday]
 
